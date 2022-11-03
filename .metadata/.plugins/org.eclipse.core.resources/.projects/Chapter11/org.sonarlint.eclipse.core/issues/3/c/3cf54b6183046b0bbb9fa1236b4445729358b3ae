@@ -1,0 +1,13 @@
+
+`
+java:S1172"(Remove this unused method parameter "a".(óæÜ¥üÿÿÿÿ8•‘‹Â0HöpRMAJORZ
+CODE_SMELL
+·
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×¶§¨8Œÿ‰Â0H§pRCRITICALZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óæÜ¥üÿÿÿÿ8•‘‹Â0HñpRCRITICALZ
+CODE_SMELL
+·
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ù³î8Œÿ‰Â0H¥pRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package capitulo11;
+
+public class BactrianCamel extends camel{
+
+}

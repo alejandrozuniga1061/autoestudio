@@ -1,0 +1,17 @@
+package otro;
+
+import java.util.List;
+
+public class OverrideMethod {
+
+}
+
+private class LongTailAnimal {
+	protected void chew(List<Object> input) {
+	}
+}
+
+private class Anteater extends LongTailAnimal {
+	protected void chew(List<Double> input) {
+	} // DOES NOT COMPILE
+}

@@ -1,0 +1,27 @@
+
+h
+java:S1144_"5Remove this unused private "ejemploMapFilter" method.(·Îƒü8Ÿ¼Å«·0H“cRMAJORZ
+CODE_SMELL
+_
+java:S1602h",Remove useless curly braces around statement(‹Á¢8Ÿ¼Å«·0H•cRMINORZ
+CODE_SMELL
+k
+java:S1144J"3Remove this unused private "ejemploFlatMap" method.(«ŞÆúÿÿÿÿ8Ÿ¼Å«·0H–cRMAJORZ
+CODE_SMELL
+g
+java:S11447"4Remove this unused private "ejemploToString" method.(¼£­«8Ÿ¼Å«·0H˜cRMAJORZ
+CODE_SMELL
+|
+java:S1858G"D"e" is already a string, there's no need to call "toString()" on it.(Àìåëùÿÿÿÿ8¿Æ«·0HšcRMINORZ
+CODE_SMELL
+‚
+java:S1192-"GDefine a constant instead of duplicating this literal "Andres" 5 times.(šşŸúıÿÿÿÿ8Ÿ¼Å«·0HœcRCRITICALZ
+CODE_SMELL
+p	java:S106i"9Replace this use of System.out or System.err by a logger.(’ßÀşÿÿÿÿ8Ÿ¼Å«·0H¢cRMAJORZ
+CODE_SMELL
+[
+java:S1604o"(Make this anonymous inner class a lambda(Œ‡ğ’8Ÿ¼Å«·0H£cRMAJORZ
+CODE_SMELL
+l
+java:S1144+"9Remove this unused private "convertirCollectList" method.(—®×Û8åª‹Øº0H¤cRMAJORZ
+CODE_SMELL

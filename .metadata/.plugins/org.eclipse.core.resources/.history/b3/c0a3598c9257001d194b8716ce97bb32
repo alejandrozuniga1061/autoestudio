@@ -1,0 +1,29 @@
+package otro;
+
+public class Rhino {
+	
+}
+
+class JavanRhino extends Rhino {
+
+}
+
+class Prueba {
+	protected static void nn() {
+		
+	}
+	
+	public Rhino algo() {
+		return null;
+	}
+	
+}
+
+class PruebaDos extends Prueba {
+	
+	public static void nn() {}
+	
+	public JavanRhino algo() {
+		return null;
+	}
+}

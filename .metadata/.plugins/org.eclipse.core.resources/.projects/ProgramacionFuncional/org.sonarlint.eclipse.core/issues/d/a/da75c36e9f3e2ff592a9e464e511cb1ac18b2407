@@ -1,0 +1,18 @@
+
+y	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŠÛäHÄZRMINORZ
+CODE_SMELL
+`
+java:S16043"(Make this anonymous inner class a lambda(úá”üÿÿÿÿ8å¶¹”²0HÅZRMAJORZ
+CODE_SMELL
+U
+java:S5960"+Remove this assertion from production code.(˜ÙüúÿÿÿÿHÆZRMAJORZBUG
+`
+java:S1604"(Make this anonymous inner class a lambda(¹”ı¯şÿÿÿÿ8å¶¹”²0HÉZRMAJORZ
+CODE_SMELL
+x	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó€ˆeHËZRMINORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’À÷ÍHÊZRMINORZ
+CODE_SMELL
+`
+java:S1604$"(Make this anonymous inner class a lambda(¹”ı¯şÿÿÿÿ8å¶¹”²0HÃZRMAJORZ
+CODE_SMELL

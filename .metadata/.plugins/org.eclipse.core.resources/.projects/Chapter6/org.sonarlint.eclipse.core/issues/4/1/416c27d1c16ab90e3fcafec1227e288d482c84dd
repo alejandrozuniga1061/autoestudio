@@ -1,0 +1,9 @@
+
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(£­Òçûÿÿÿÿ8¥¾àı¶0Hş[RMAJORZ
+CODE_SMELL
+|
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8åÿŞı¶0Hù[RMINORZBUG
+K
+java:S2097"Add a type test to this method.(ÜÑã8åÿŞı¶0Hú[RMINORZBUG
+p
+java:S2259 "?A "NullPointerException" could be thrown; "a" is nullable here.(£­Òçûÿÿÿÿ8óšéı¶0H³\RMAJORZBUG

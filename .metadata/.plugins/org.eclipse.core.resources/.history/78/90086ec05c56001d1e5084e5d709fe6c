@@ -1,0 +1,9 @@
+package capitulo11;
+
+import java.io.FileNotFoundException;
+
+public class BactrianCamel extends Camel {
+	public int getNumberOfHumps() throws  FileNotFoundException{ // DOES NOT COMPILE
+		return 2;
+	}
+}

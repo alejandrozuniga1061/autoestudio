@@ -1,0 +1,12 @@
+
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÏûæýÿÿÿÿHÏCRMINORZ
+CODE_SMELL
+l
+java:S1128"9Remove this unused import 'org.junit.Assert.assertFalse'.(Ô”®Ì8ÿšÅ“²0HÞTRMINORZ
+CODE_SMELL
+U
+java:S5960"+Remove this assertion from production code.(Úˆ×èÿÿÿÿÿHÐCRMAJORZBUG
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸èò´8ÖÉÕ÷±0HÝCRMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£†Å¥øÿÿÿÿ8ö˜ø÷±0HôCRMINORZ
+CODE_SMELL

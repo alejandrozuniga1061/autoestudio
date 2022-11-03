@@ -1,0 +1,29 @@
+package otro;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class OverrideMethod {
+	public static void main(String[] args) {
+		List<? extends Y> algo = new ArrayList<>();
+		algo.add(new Y());
+	}
+}
+
+class LongTailAnimal {
+	protected void chew(List<Object> input) {
+	}
+}
+
+class Anteater extends LongTailAnimal {
+	protected void chew(ArrayList<Double> input) {
+	} // DOES NOT COMPILE
+}
+
+class X extends Y {
+	
+}
+
+class Y {
+	
+}

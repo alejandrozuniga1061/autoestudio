@@ -1,0 +1,11 @@
+package capitulo11;
+
+import capitulo11.BactrianCamel;
+import capitulo11.Camel;
+
+public class Rider {
+	public static void main(String[] args) {
+		Camel c = new BactrianCamel();
+		System.out.print(c.getNumberOfHumps());
+	}
+}

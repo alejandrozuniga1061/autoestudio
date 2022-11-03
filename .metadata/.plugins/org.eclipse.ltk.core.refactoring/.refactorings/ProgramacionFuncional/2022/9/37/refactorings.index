@@ -1,0 +1,18 @@
+1662668713384	Copy package
+1662668716712	Delete element
+1662668785956	Move compilation unit
+1662669431868	Rename type 'MetodoDefault'
+1662669666910	Rename method 'accion'
+1662671345745	Rename method 'imprimirPropiedades'
+1662671604520	Rename type 'PerroTest'
+1662683342129	Move compilation unit
+1662683667037	Rename type 'ClaseAnonima'
+1662683729622	Rename type 'Colombiano'
+1662685890489	Rename package 'programacionfuncional.anonima'
+1662685986694	Delete element
+1662686373567	Delete element
+1662691194073	Extract constant 'MASCULINO'
+1662691282265	Extract constant 'FEMENINO'
+1662698139334	Rename field 'numeroPatas'
+1662698147682	Rename method 'getNumeroPatas'
+1662698153603	Rename method 'setNumeroPatas'

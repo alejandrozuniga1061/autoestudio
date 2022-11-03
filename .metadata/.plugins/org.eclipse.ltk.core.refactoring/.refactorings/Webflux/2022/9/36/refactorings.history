@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.webflux.String&apos; to &apos;StringClass&apos;&#x0D;&#x0A;- Original project: &apos;Webflux&apos;&#x0D;&#x0A;- Original element: &apos;com.webflux.String&apos;&#x0D;&#x0A;- Renamed element: &apos;com.webflux.StringClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;String&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.webflux{String.java[String" matchStrategy="1" name="StringClass" qualified="false" references="true" similarDeclarations="false" stamp="1662162288572" textual="false" version="1.0"/>
+</session>

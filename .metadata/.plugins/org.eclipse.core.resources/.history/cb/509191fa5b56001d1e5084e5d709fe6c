@@ -1,0 +1,7 @@
+package capitulo11;
+
+public class BactrianCamel extends Camel {
+	public int getNumberOfHumps(){ // DOES NOT COMPILE
+		return 2;
+	}
+}

@@ -1,0 +1,7 @@
+package capitulo11;
+
+public class BactrianCamel extends Camel {
+	public int getNumberOfHumps() throws  IllegalArgumentException{ // DOES NOT COMPILE
+		return 2;
+	}
+}

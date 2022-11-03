@@ -1,0 +1,24 @@
+package otro;
+
+public class Rhino {
+	
+}
+
+class JavanRhino extends Rhino {
+
+}
+
+class Prueba {
+	
+	public JavanRhino algo() {
+		return null;
+	}
+	
+}
+
+class PruebaDos {
+	
+	public Rhino algo() {
+		return null;
+	}
+}

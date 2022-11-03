@@ -1,0 +1,13 @@
+
+r
+java:S1161":Add the "@Override" annotation above this method signature(‡ó üÿÿÿÿ8÷Ø¤‰Â0H˜qRMAJORZ
+CODE_SMELL
+z
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ë¨¡“ùÿÿÿÿ8ÄŸôáÁ0HšqRMINORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤â²¶ûÿÿÿÿ8Ùù²ŒÂ0H›qRCRITICALZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“ßËáÿÿÿÿÿ8Ùù²ŒÂ0HqRCRITICALZ
+CODE_SMELL

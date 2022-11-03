@@ -1,0 +1,9 @@
+package capitulo11;
+
+import java.io.IOException;
+
+public class Camel {
+	public int getNumberOfHumps() throws IllegalArgumentException {
+		return 1;
+	}
+}

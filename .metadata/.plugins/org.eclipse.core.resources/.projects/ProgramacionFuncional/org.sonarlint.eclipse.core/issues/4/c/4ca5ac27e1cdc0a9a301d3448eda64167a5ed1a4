@@ -1,0 +1,40 @@
+
+„
+java:S1192)"IDefine a constant instead of duplicating this literal "Medellin" 6 times.(úÎĞ”úÿÿÿÿ8¢Ö²0H¨[RCRITICALZ
+CODE_SMELL
+€	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßà¹Ò8ÙîÖ‚²0H¯[RMINORZ
+CODE_SMELL
+o
+java:S1128"<Remove this unused import 'java.util.function.IntPredicate'.(áÕÚ¢8Åû–²0H°[RMINORZ
+CODE_SMELL
+a
+java:S1128
+".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÑåÌ•²0H²[RMINORZ
+CODE_SMELL
+‚
+java:S1192/"GDefine a constant instead of duplicating this literal "Bogota" 6 times.(—ë©•ÿÿÿÿÿ8ò‘ë²0H´[RCRITICALZ
+CODE_SMELL
+…	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şà°‡øÿÿÿÿ8ñ§Õ²0H»[RMINORZ
+CODE_SMELL
+€	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úƒª¯8§ÿÅ²0H¼[RMINORZ
+CODE_SMELL
+€	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ§8ñÈĞ²0H½[RMINORZ
+CODE_SMELL
+€	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÓèÇ8µåæ²0H¾[RMINORZ
+CODE_SMELL
+€	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑŒ©Ó8şà€‚²0H¿[RMINORZ
+CODE_SMELL
+…	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¨Íüÿÿÿÿ8¾§‚²0HÀ[RMINORZ
+CODE_SMELL
+€	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üµ¶…8—ë¾‚²0HÁ[RMINORZ
+CODE_SMELL
+€	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æôğµ8¡Şê²0HÂ[RMINORZ
+CODE_SMELL
+…	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨³‹ºüÿÿÿÿ8ıŸº²0HÃ[RMINORZ
+CODE_SMELL
+V
+java:S5960$"+Remove this assertion from production code.(÷Â&8…‡¾²0HÄ[RMAJORZBUG
+€	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤†¼º8œÚ¿²0HĞ[RMINORZ
+CODE_SMELL
+…	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¸¦ıÿÿÿÿ8ıß…‚²0HÑ[RMINORZ
+CODE_SMELL

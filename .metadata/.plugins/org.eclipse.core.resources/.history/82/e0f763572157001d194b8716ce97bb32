@@ -1,0 +1,26 @@
+package otro;
+
+import java.util.List;
+
+public class Rhino {
+	
+}
+
+class JavanRhino extends Rhino {
+
+}
+
+class Prueba {
+	
+	public Rhino algo(List<Rhino> a) {
+		return null;
+	}
+	
+}
+
+class PruebaDos extends Prueba {
+	
+	public JavanRhino algo(List<String> a) {
+		return null;
+	}
+}

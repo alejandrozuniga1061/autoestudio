@@ -1,0 +1,18 @@
+
+y
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ê´şãûÿÿÿÿ8°ØÑ¼0H£gRMAJORZ
+CODE_SMELL
+
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ûĞÖûÿÿÿÿ8õô œ¼0H¤gRMAJORZBUG
+
+java:S1128"WRemove this unused import 'org.springframework.scheduling.quartz.SchedulerFactoryBean'.(ƒ£Ãæşÿÿÿÿ8ı´‚ã¼0H¥gRMINORZ
+CODE_SMELL
+”
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ê´şãûÿÿÿÿ8°ØÑ¼0H§gRMAJORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ı´‚ã¼0H¨gRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8å”„»0HªgRINFOZ
+CODE_SMELL

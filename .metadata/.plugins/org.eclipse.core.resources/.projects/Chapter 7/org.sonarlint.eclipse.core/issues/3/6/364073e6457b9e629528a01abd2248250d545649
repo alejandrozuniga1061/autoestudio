@@ -1,0 +1,21 @@
+
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ë½õ•¾0H¯hRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ë½õ•¾0H°hRMAJORZ
+CODE_SMELL
+ƒ
+java:S3008"PRename this field "COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡Ñ©8ë½õ•¾0H±hRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âŞœ¢úÿÿÿÿ8ë½õ•¾0H²hRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ØŸ»è8ë½õ•¾0H³hRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8ë½õ•¾0H´hRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(âŞœ¢úÿÿÿÿ8ë½õ•¾0HµhRMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ë½õ•¾0H¶hRMAJORZ
+CODE_SMELL
